@@ -1,0 +1,50 @@
+---
+layout: post
+title: Dynamic Econometrics Week 1
+category: Econometrics
+keywords: DE, week1
+---
+
+### Tutorials 
+#### Theory exercises
+
+1. Write in lag in operator notation
+
+$$Y_t=0.1Y_{t-1}+0.3Y_{t-3}+\epsilon_t$$
+
+$$Y_t=0.1Y_{t-1}-0.3Y_{t-2}+\epsilon_t$$
+
+$$Y_t=0.5Y_{t-2}+\epsilon_t$$
+
+Show that $$\bigtriangleup^2 \neq 1-L^2$$
+
+**Sol**
+
+http://www2.stat.duke.edu/~cr173/Sta444_Sp17/slides/Lec8.pdf
+p33 slides week1 lecture 1
+
+
+2. Show that for a covariance stationary process, the autocovariance function $$\gamma_j=\gamma_{-j}$$
+
+p43
+
+3. For the random walk process, what is E[Yt|Yt−1]? Is this different from E[Yt]
+
+http://web.nchu.edu.tw/~finmyc/tim_lin.pdf
+non-stationary
+
+4. Suppose Yt follows a random walk process. Is the process $$X_t=\frac{1}{\sqrt{t}}Y_t$$ covariance stationary?
+
+Yes
+
+5. Suppose $$Y_t=X_t+\eta_t$$ with $$\eta_T$$ a Guassian White Noise process and where $$X_t$$ a covariance stationary stochastic process with autocovariance function $$\gamma_j^{X}$$/
+
+
+
+
+
+
+
+
+
+
